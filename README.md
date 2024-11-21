@@ -1,7 +1,7 @@
 # FULL ADDER AND SUBTRACTOR
 ## NAME: Rajeshwaran.D
 ## REG NO: 212223040165
-## EXP NO:3 FULL ADDER AND SUBTRACTOR
+##  FULL ADDER AND SUBTRACTOR
 
 Implementation-of-Full-Adder-and-Full-subtractor-circuit
 
